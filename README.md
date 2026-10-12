@@ -1,4 +1,4 @@
-## 👋Hello, I'm Emmanuel Adeyemi
+## 👋 Hello, I'm Emmanuel Adeyemi
 
 <!--
 **emmaadey/emmaadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
