@@ -10,7 +10,7 @@ I'm constantly improving my coding skills, learning new technologies, and explor
 
 ![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind)
 
- Other Tools
+ <h2>Other Tools</h2>
 
 <p>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="50" alt="Git" />
@@ -22,7 +22,7 @@ I'm constantly improving my coding skills, learning new technologies, and explor
 
 <hr> 
 
-<h2>🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
