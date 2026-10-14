@@ -4,23 +4,22 @@
 
 
 
- I’m currently learning Node.js 
- I'm always upskilling in learning Various Coding languages 
-
+ I’m continuously improving my skills, exploring new technologies, and learning best practices in software development.
+🛠️ I work with tools like Git and GitHub for version control and collaboration.
+🎯 My goal is to become a well-rounded software engineer and build impactful products that solve real-world problems.
 
 <h1>My Tech Stack</h1>
-<hr>
-<img src="./assets/react.gif" width="50" alt="React" />
-<img src="./assets/javascript.gif" width="50" alt="JavaScript" />
-<img src="./assets/typescript.gif" width="50" alt="TypeScript" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Coding animation" />
+
 
 
 ## 🌐 Connect With Me
 
 * LinkedIn:  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/" target="_blank">linkedin.com/in/onlyemmanueladeyemi</a>
-* Portfolio: 
-* Email: emmanueladeyemi180@gmail.com 
-
+* Email: emmanueladeyemi180@gmail.com
+  
+<hr>
 ⭐ Thanks for visiting my profile!
 
 
