@@ -20,14 +20,15 @@ I'm constantly improving my coding skills, learning new technologies, and explor
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="50" alt="Docker" />
 </p>
 
-*🌐 Connect With Me
+<hr> 
+
+<h2>🌐 Connect With Me </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
-  </a>
-  <a href="mailto:emmanueladeyemi180@gmail.com">
-  </a>
+- [LinkedIn](https://www.linkedin.com/in/onlyemmanueladeyemi/)
+- [Email Me](mailto:emmanueladeyemi180@gmail.com)
 </p>
+
 
 ⭐ Thanks for visiting my profile!
 
