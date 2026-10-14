@@ -16,13 +16,10 @@ I'm constantly improving my coding skills, learning new technologies, and explor
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="50" alt="Git" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/github/181717" width="40" height="50" alt="GitHub" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="50" alt="Docker" />
 </p>
 
-<hr> 
 
-<h2>🌐 Connect With Me</h2>
+<h2>🌐 Let's Connect</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
