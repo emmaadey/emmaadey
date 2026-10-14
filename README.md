@@ -17,6 +17,7 @@ I'm constantly improving my coding skills, learning new technologies, and explor
   &nbsp;
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="50" alt="GitHub" /></p>
 
+<div></div>
 
 <h2>🌐 Let's Connect</h2>
 
