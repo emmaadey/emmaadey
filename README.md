@@ -3,23 +3,33 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=B7FFFA&width=435&lines=A+Frontend+Developer+)](https://git.io/typing-svg)
 
 
- I’m continuously improving my skills, exploring new technologies, and learning best practices in software development.
-🛠️ I work with tools like Git and GitHub for version control and collaboration.
+I'm constantly improving my coding skills, learning new technologies, and exploring different programming languages.
 🎯 My goal is to become a well-rounded software engineer and build impactful products that solve real-world problems.
 
 <h1>My Tech Stack</h1>
 
 ![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind)
 
-<h3> Other </h3>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="45" alt="Git" />
-<img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub" />
+ Other Tools
 
-## 🌐 Connect With Me
-<span>
-* [LinkedIn](https://www.linkedin.com/in/onlyemmanueladeyemi/)
-* [Email Me](mailto:emmanueladeyemi@emmanueladeyemi180@gmail.com)
-</span>
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" />
+</p>
+
+🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:emmanueladeyemi180@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
 
 ⭐ Thanks for visiting my profile!
 
