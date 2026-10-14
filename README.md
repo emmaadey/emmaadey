@@ -4,7 +4,7 @@
 
 
 <p>I'm constantly Upskilling, learning new technologies, and exploring different programming languages.</p>
-<p>🎯 My goal is to become a well-rounded software engineer and build impactful products that solve real-world problems. </p>
+🎯 My goal is to become a well-rounded software engineer and build impactful products that solve real-world problems. 
 
 <h1>My Tech Stack</h1>
 
