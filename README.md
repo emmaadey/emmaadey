@@ -22,11 +22,15 @@ I'm constantly improving my coding skills, learning new technologies, and explor
 
 <hr> 
 
-<h2>🌐 Connect With Me </h2>
+##🌐 Connect With Me
 
 <p>
-- [LinkedIn](https://www.linkedin.com/in/onlyemmanueladeyemi/)
-- [Email Me](mailto:emmanueladeyemi180@gmail.com)
+  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:emmanueladeyemi180@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
 </p>
 
 
