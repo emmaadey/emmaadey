@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=B7FFFA&width=435&lines=A+Frontend+Developer+)](https://git.io/typing-svg)
 
 
-I'm constantly improving my coding skills, learning new technologies, and exploring different programming languages.
+I'm constantly Upskilling, learning new technologies, and exploring different programming languages.
 🎯 My goal is to become a well-rounded software engineer and build impactful products that solve real-world problems.
 
 <h1>My Tech Stack</h1>
