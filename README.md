@@ -13,14 +13,15 @@ I'm constantly improving my coding skills, learning new technologies, and explor
  Other Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="50" alt="Git" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="50" alt="GitHub" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="50" alt="Docker" />
 </p>
 
-🌐 Connect With Me
+<hr >
+<h2>🌐 Connect With Me</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
