@@ -7,6 +7,14 @@
  I’m currently learning Node.js 
  I'm always upskilling in learning Various Coding languages 
 
+
+<h1>My Tech Stack</h1>
+<hr>
+<img src="./assets/react.gif" width="50" alt="React" />
+<img src="./assets/javascript.gif" width="50" alt="JavaScript" />
+<img src="./assets/typescript.gif" width="50" alt="TypeScript" />
+
+
 ## 🌐 Connect With Me
 
 * LinkedIn:  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/" target="_blank">linkedin.com/in/onlyemmanueladeyemi</a>
