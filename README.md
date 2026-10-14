@@ -22,7 +22,7 @@ I'm constantly improving my coding skills, learning new technologies, and explor
 
 <hr> 
 
-##🌐 Connect With Me
+<h2>🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
