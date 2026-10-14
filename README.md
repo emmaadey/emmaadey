@@ -20,15 +20,12 @@ I'm constantly improving my coding skills, learning new technologies, and explor
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="50" alt="Docker" />
 </p>
 
-<hr >
-<h2>🌐 Connect With Me</h2>
+*🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:emmanueladeyemi180@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
 
