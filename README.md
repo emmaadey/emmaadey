@@ -9,14 +9,18 @@
 
 <h1>My Tech Stack</h1>
 
-![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,docker,go,rust)
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind)
 
+<h3> Other </h3>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="45" alt="Git" />
+<img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub" />
 
 ## 🌐 Connect With Me
+<span>
+* [LinkedIn](https://www.linkedin.com/in/onlyemmanueladeyemi/)
+* [Email Me](mailto:emmanueladeyemi@emmanueladeyemi180@gmail.com)
+</span>
 
-* LinkedIn:  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/" target="_blank">linkedin.com/in/onlyemmanueladeyemi</a>
-* Email: emmanueladeyemi180@gmail.com
-  
 ⭐ Thanks for visiting my profile!
 
 
