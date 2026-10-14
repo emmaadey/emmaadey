@@ -1,11 +1,7 @@
 ## 👋 Hello, I'm Emmanuel Adeyemi
 
-[A frontend developer 
-](https://readme-typing-svg.demolab.com/demo/?weight=100&color=B7FFFA&lines=A+Frontend+Developer+)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=B7FFFA&width=435&lines=A+Frontend+Developer+)](https://git.io/typing-svg)
 
-**emmaadey/emmaadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
  I’m currently learning Node.js 
@@ -13,8 +9,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect With Me
 
- 
-* LinkedIn: 
+* LinkedIn:  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/" target="_blank">linkedin.com/in/onlyemmanueladeyemi</a>
 * Portfolio: 
 * Email: emmanueladeyemi180@gmail.com 
 
