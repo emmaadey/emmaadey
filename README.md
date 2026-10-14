@@ -34,6 +34,10 @@ I'm constantly improving my coding skills, learning new technologies, and explor
 ⭐ Thanks for visiting my profile! 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXZpODJlYTQwODV6ZHBiZnVqem5hdmxrZGt5MTNqazA5eXZucTBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YoLK368FGpHAS5lo5x/giphy.gif" width="120" alt="Waving goodbye" />
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXZpODJlYTQwODV6ZHBiZnVpem5hdmxrZGt5MTNqazA5eXZucTBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YoLK368FGpHAS5lo5x/giphy.gif"
+    width="120"
+    alt="Waving goodbye"
+  />
 </p>
 
