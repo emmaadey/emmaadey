@@ -12,12 +12,12 @@
 
 <h3>Programming language </h3>
 
-<p>Typescript</p>
-<p>React</p>
-<p>Next.js</p>
-<p>Tailwindcss </p>
-<p>Mantine-Ui</p>
-<p>Shadcn</p>
+<span>Typescript</span>
+<span>React</span>
+<span>Next.js</span>
+<span>Tailwindcss </span>
+<span>Mantine-Ui</span>
+<span>Shadcn</span>
 
  <h2>Other Tools</h2>
 
