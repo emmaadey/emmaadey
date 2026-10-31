@@ -10,6 +10,15 @@
 
 ![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind)
 
+<h3>Programming language </h3>
+
+<p>Typescript</p>
+<p>React</p>
+<p>Next.js</p>
+<p>Tailwindcss </p>
+<p>Mantine-Ui</p>
+<p>Shadcn</p>
+
  <h2>Other Tools</h2>
 
 <p>
