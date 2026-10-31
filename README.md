@@ -10,7 +10,7 @@
 
 ![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind)
 
-<h3>Programming language </h3>
+<u>Programming language </u>
 
 <li>Typescript</li>
 <li>React</li>
