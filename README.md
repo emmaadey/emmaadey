@@ -8,7 +8,7 @@
 
 <h1>My Tech Stack</h1>
 
-![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind)
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind,shadcn)
 
 <h3>Programming Languages:</h3>
 <li>JavaScript </li>
