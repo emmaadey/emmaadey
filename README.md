@@ -11,7 +11,8 @@
 ![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,next,tailwind)
 
 <h3>Programming Languages:</h3>
-<li>Typescript</li>
+<li>JavaScript </li>
+<li>TypeScript</li>
 <li>React</li>
 <li>Next.js</li>
 <li>Tailwindcss </li>
