@@ -39,16 +39,16 @@
   </a>
 </p>
 
-<p>
+<li>
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
-   Linkedin
+   LinkedIn
   </a>
-</p>
- <p>
+</li>
+ <li>
      <a href="mailto:emmanueladeyemi180@gmail.com">
-      Email
+      Email Me
      </a>
-</p>
+</li>
 
 
 ⭐ Thanks for visiting my profile! 
