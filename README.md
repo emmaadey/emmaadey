@@ -39,6 +39,15 @@
   </a>
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
+   Linkedin
+  </a>
+     <a href="mailto:emmanueladeyemi180@gmail.com">
+      Email
+     </a>
+</p>
+
 
 ⭐ Thanks for visiting my profile! 
 
