@@ -43,6 +43,8 @@
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
    Linkedin
   </a>
+</p>
+ <p>
      <a href="mailto:emmanueladeyemi180@gmail.com">
       Email
      </a>
