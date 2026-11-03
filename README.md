@@ -44,8 +44,13 @@
    LinkedIn
   </a>
 </li>
+<br />
  <li>
-     <a href="mailto:emmanueladeyemi180@gmail.com">
+     <a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanueladeyemi180@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+>
       Email Me
      </a>
 </li>
