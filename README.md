@@ -48,7 +48,6 @@
  <li>
      <a
   href="mailto:emmanueladeyemi180@gmail.com"
-  target="_blank"
 >
       Email Me
      </a>
