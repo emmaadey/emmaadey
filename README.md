@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
-
+<ul>
 <li>
   <a href="https://www.linkedin.com/in/onlyemmanueladeyemi/">
    LinkedIn
@@ -52,6 +52,7 @@
       Email Me
      </a>
 </li>
+ </ul>
 <br/>
 
 ⭐ Thanks for visiting my profile! 
