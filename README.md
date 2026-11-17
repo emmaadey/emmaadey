@@ -57,7 +57,7 @@
      <a
   href="https://emmanueladeyemi-portfolio.vercel.app/"
 >
-      My Portfolio 😀
+      My Portfolio 😀v
      </a>
 </li>
  </ul>
