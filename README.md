@@ -52,6 +52,7 @@
       Email Me
      </a>
 </li>
+ <br />
   <li>
      <a
   href="emmanueladeyemi-portfolio.vercel.app"
@@ -60,7 +61,7 @@
      </a>
 </li>
  </ul>
-
+<br />
 ⭐ Thanks for visiting my profile! 
 
 <p align="center">
