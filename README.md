@@ -55,9 +55,9 @@
  <br />
   <li>
      <a
-  href="emmanueladeyemi-portfolio.vercel.app"
+  href="https://emmanueladeyemi-portfolio.vercel.app/"
 >
-      My Portfolio 😀
+      My Portfolio
      </a>
 </li>
  </ul>
