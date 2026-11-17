@@ -52,8 +52,14 @@
       Email Me
      </a>
 </li>
+  <li>
+     <a
+  href="emmanueladeyemi-portfolio.vercel.app"
+>
+      My Portfolio 😀
+     </a>
+</li>
  </ul>
-<br/>
 
 ⭐ Thanks for visiting my profile! 
 
